@@ -1,0 +1,31 @@
+seller_id,seller_name,category,join_date,current_tier,prior_suspension_date,prior_penalty_total
+SEL-001,Zenith Gadgets,Electronics,2024-05-01,SILVER,,1200.00
+SEL-002,Urban Threads,Fashion,2025-10-24,GOLD,,0.00
+SEL-003,HomeNest Decor,Home,2025-09-28,PLATINUM,,500.00
+SEL-004,FreshKart Grocers,Grocery,2026-01-18,PLATINUM,,1200.00
+SEL-005,PixelPeak Electronics,Electronics,2024-09-02,GOLD,,500.00
+SEL-006,Saree Mahal,Fashion,2024-04-23,SILVER,,0.00
+SEL-007,Kitchen Karma,Home,2024-01-12,PLATINUM,,0.00
+SEL-008,Daily Dairy Mart,Grocery,2025-02-10,SILVER,,1200.00
+SEL-009,VoltEdge,Electronics,2025-01-20,GOLD,,0.00
+SEL-010,Denim District,Fashion,2025-07-24,SILVER,,1200.00
+SEL-011,Cozy Corner,Home,2024-05-24,SILVER,,0.00
+SEL-012,Organic Basket,Grocery,2025-01-07,PLATINUM,,0.00
+SEL-013,ByteBazaar,Electronics,2025-02-12,PLATINUM,,0.00
+SEL-014,Ethnic Elegance,Fashion,2025-06-02,PLATINUM,,1200.00
+SEL-015,Lamp & Loom,Home,2024-09-21,PLATINUM,,3000.00
+SEL-016,Spice Route Stores,Grocery,2025-06-09,GOLD,,3000.00
+SEL-017,GigaGear,Electronics,2026-02-23,SILVER,,0.00
+SEL-018,Trendy Tails,Fashion,2025-11-17,GOLD,,3000.00
+SEL-019,Nest & Nook,Home,2025-04-26,SILVER,,0.00
+SEL-020,Grain Garden,Grocery,2024-05-04,PLATINUM,,0.00
+SEL-021,LowVolume Lights,Home,2024-09-14,PLATINUM,,0.00
+SEL-022,Edge Apparel,Electronics,2025-10-24,PLATINUM,,3000.00
+SEL-023,Fashion Fiesta,Fashion,2024-07-26,SILVER,,0.00
+SEL-024,Comeback Cloth Co,Grocery,2024-02-03,WATCH,,3000.00
+SEL-025,Budget Bags,Electronics,2025-06-19,PLATINUM,,500.00
+SEL-026,Repeat Offender Retail,Fashion,2024-09-23,PLATINUM,2026-04-12,500.00
+SEL-027,Second Chance Sports,Home,2026-02-24,PLATINUM,,0.00
+SEL-028,Newbie Novelties,Grocery,2026-07-27,GOLD,,0.00
+SEL-029,Fake Finds Fashion,Fashion,2025-04-13,GOLD,,500.00
+SEL-030,Reliable Rugs,Fashion,2024-09-22,PLATINUM,,3000.00
