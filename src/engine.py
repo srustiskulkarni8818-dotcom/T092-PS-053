@@ -637,7 +637,7 @@ class MarketplaceEngine:
             self.save_outputs()
             print("Counterfeit confirmed:", seller_id)
 
-        elif action == "PRINT_SCORECARD":
+               elif action == "PRINT_SCORECARD":
             seller_id = args[0]
 
             if seller_id not in self.seller_states:
@@ -645,9 +645,8 @@ class MarketplaceEngine:
                     f"Unknown seller: {seller_id}"
                 )
 
-            self.save_outputs()
             print(
-                "Scorecards written:",
+                "Scorecards available:",
                 len(self.scorecard_rows)
             )
 
